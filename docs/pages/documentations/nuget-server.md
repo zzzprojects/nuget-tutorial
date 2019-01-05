@@ -1,6 +1,6 @@
 # NuGet.Server
 
-Microsoft provide NuGet.Server package that can host a package feed on any server that runs IIS using ASP.NET application. 
+Microsoft provides NuGet.Server package that can host a package feed on any server that runs IIS using ASP.NET application. 
 
  - NuGet.Server makes a folder on the server available through HTTP(S) specifically OData. 
  - It is easy to set up and is best for simple scenarios.
@@ -28,13 +28,13 @@ It converts the empty Web application into a package source.
 Open your `Web.config` and set the value of `packagesPath` to **D:\MyPackages**.
 
 ```csharp
-<!-- Change the path to the packages folder. Default is ~/Packages. 
-This can be a virtual or physical path. -->
+<!-- Change the path to the packages folder. The default is ~/Packages. 
+It can be a virtual or physical path. -->
 
 <add key="packagesPath" value="D:\MyPackages" />
 ```
 
-Run your application and you will have a NuGet Server.
+Run your application, and you will have a NuGet Server.
 
 <img src="https://raw.githubusercontent.com/zzzprojects/nuget-tutorial/master/docs/images/host-nuget-packages6.png">
 
@@ -44,7 +44,7 @@ Run your application and you will have a NuGet Server.
 
 ## Add Packages to the Feed
 
-Once a NuGet.Server site is running, you can add packages using `nuget push` provided that you set an API key value in web.config.
+Once a NuGet.Server site is running; you can add packages using `nuget push` provided that you set an API key value in web.config.
 
  - After installing the `NuGet.Server` package, `web.config` contains an empty `appSetting/apiKey` value.
  - When `apiKey` is blank, pushing packages to the feed is disabled.
