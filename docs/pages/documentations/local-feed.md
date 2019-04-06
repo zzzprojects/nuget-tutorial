@@ -1,3 +1,8 @@
+---
+PermaID: 100004
+Name: Local Feed
+---
+
 # Local Feed
 
 Local NuGet package feeds are simply hierarchical folder structures on your local computer or network in which you place packages. 

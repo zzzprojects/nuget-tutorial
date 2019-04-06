@@ -1,3 +1,8 @@
+---
+PermaID: 100003
+Name: Host NuGet Packages
+---
+
 # Host NuGet Packages
 
 Sometimes, you might want to release packages to only a limited audience instead of making packages publicly available, such as your organization or workgroup. 

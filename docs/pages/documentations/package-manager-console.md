@@ -1,3 +1,8 @@
+---
+PermaID: 100009
+Name: Package Manager Console
+---
+
 # Package Manager Console
 
 The NuGet Package Manager Console is built into Visual Studio on Windows version 2012 and later. It is not included with Visual Studio for Mac or Visual Studio Code. 

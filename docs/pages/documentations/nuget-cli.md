@@ -1,3 +1,8 @@
+---
+PermaID: 100005
+Name: NuGet CLI
+---
+
 # NuGet CLI
 
 The NuGet (`nuget.exe`) CLI, provides the full extent of NuGet functionality to install, create, publish, and manage packages without making any changes to project files.

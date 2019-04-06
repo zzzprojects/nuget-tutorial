@@ -1,3 +1,8 @@
+---
+PermaID: 100002
+Name: Dotnet CLI
+---
+
 # Dotnet CLI
 
 The .NET Core 2.0 CLI (`dotnet.exe`), works on all platforms (Windows, Mac, and Linux) and provides core NuGet features such as installing, restoring, and publishing packages. 

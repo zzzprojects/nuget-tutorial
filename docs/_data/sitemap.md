@@ -5,7 +5,7 @@
 - [Package Compatibility](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/package-compatibility.md)
 - [Host NuGet Packages](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/host-nuget-packages.md)
    - [Local Feed](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/local-feed.md)
-   - [NuGet.Server](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-server.md)
+   - [NuGet Server](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-server.md)
 - [Dotnet CLI](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/dotnet-cli.md)
 - [NuGet CLI](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-cli.md)
 - [NuGet Tools](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-tools.md)

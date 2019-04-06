@@ -1,3 +1,8 @@
+---
+PermaID: 100001
+Name: Create NuGet Package
+---
+
 # Create NuGet Package
 
 A NuGet package is just a ZIP file that's been renamed with the `*.nupkg` extension and whose contents match certain conventions. You use `nuget.exe` to package that functionality into a component that can be shared with and used by any number of other developers. 

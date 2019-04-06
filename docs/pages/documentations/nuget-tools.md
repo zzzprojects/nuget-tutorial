@@ -1,3 +1,8 @@
+---
+PermaID: 100007
+Name: NuGet Tools
+---
+
 # NuGet Tools
 
 To work with NuGet, as a package consumer or creator, you can use a command-line interface (CLI) tools as well as NuGet features in Visual Studio.

@@ -1,3 +1,8 @@
+---
+PermaID: 100010
+Name: Package Manager UI
+---
+
 # Package Manager UI
 
 The NuGet Package Manager UI in Visual Studio allows you to easily install, uninstall, and update NuGet packages in projects and solutions. The Package Manager UI is not included with Visual Studio Code.

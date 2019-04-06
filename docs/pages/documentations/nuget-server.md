@@ -1,4 +1,9 @@
-# NuGet.Server
+---
+PermaID: 100006
+Name: NuGet Server
+---
+
+# NuGet Server
 
 Microsoft provides NuGet.Server package that can host a package feed on any server that runs IIS using ASP.NET application. 
 

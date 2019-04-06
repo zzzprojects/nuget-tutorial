@@ -1,3 +1,8 @@
+---
+PermaID: 100008
+Name: Package Compatibility
+---
+
 # Package Compatibility
 
 A compatible package means that it contains assemblies built for at least one target .NET framework that's compatible with the consuming project's target framework. 

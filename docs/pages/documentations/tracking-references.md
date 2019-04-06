@@ -1,3 +1,8 @@
+---
+PermaID: 100011
+Name: Tracking References
+---
+
 # Tracking References
 
 Projects can easily move between developer computers, source control repositories, build servers, etc., it's highly impractical to keep the binary assemblies of NuGet packages directly bound to a project. 
