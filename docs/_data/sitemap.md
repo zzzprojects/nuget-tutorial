@@ -9,5 +9,4 @@
 - [NuGet.Server](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-server.md)
 - [NuGet Tools](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/nuget-tools.md)
 - [Package Compatibility](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/package-compatibility.md)
-
 - [Tracking References](https://github.com/zzzprojects/nuget-tutorial/blob/master/docs/pages/documentations/tracking-references.md)
